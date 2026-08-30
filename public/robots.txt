@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vector-alerts.github.io/sitemap.xml
